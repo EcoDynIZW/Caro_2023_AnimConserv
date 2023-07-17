@@ -3,6 +3,9 @@
 
 All data and code necessary to (1) fit the integrated model combining capture-mark-recapture data and count data of coconut crabs collected across 29 sites in/near the Pemba archipelago, with and without covariates, (2) make posterior predictions of abundance across suitable habitat at all surveyed sites, (3) fit the GLMM to estimate the effect of covariates on catch per unit effort, and (4) fit the LMM to estimate the effect of covariates on coconut crab body mass. For details, see main text of publication.
 
+## DOI
+https://doi.org/10.5281/zenodo.8153309
+
 ## Description of the data and file structure
 
 <ins> **This repository contains the following data files:** </ins> 
